@@ -23,3 +23,5 @@ Thumbs.db
 
 # VS Code
 .vscode/
+# Ignore large dataset
+dataset/*.csv
